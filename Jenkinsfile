@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        DOCKER_IMAGE = "your-dockerhub-username/contact-management:latest"
+        DOCKER_IMAGE = "23mis0353/contact-management:latest"
     }
 
     stages {

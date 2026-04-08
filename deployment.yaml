@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: contact-management
-        image: your-dockerhub-username/contact-management:latest
+        image: 23mis0353/contact-management:latest
         imagePullPolicy: Always
 ---
 apiVersion: v1
